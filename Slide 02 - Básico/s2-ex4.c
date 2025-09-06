@@ -1,4 +1,3 @@
-
 /*Agora o aluno alugou um carro. 
 Ele está preocupado com o limite de velocidade, 
 mas não entende muito bem o sistema de milhas por hora (mph). 
@@ -17,7 +16,6 @@ Sabe-se que que 1 milha tem aproximadamente 1.6 quilômetros. Crie um programa q
     scanf("%f", &vel_mph);
 
     vel_kph = vel_mph * milha;
-    
 
     if (vel_kph < 80){
         printf("ACELERE. \n");
@@ -35,3 +33,4 @@ Sabe-se que que 1 milha tem aproximadamente 1.6 quilômetros. Crie um programa q
 return 0;
 
 }
+
