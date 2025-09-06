@@ -1,9 +1,4 @@
-/*Crie uma função eh_primo que recebe um inteiro n e retorna se ele é primo ou não.
-
-Exemplos:
-
-eh_primo(4) -> 0
-eh_primo(7) -> 1*/
+/*Crie uma função eh_primo que recebe um inteiro n e retorna se ele é primo ou não.*/
 
 #include <stdio.h>
 
@@ -22,9 +17,8 @@ int eh_primo(int n) {
 }
 
 int main() {
-
     int num;
-
+    
     printf("Digite um número inteiro positivo: ");
     scanf("%d", &num);
 
