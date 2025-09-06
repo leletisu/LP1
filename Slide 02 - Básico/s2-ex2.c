@@ -1,7 +1,6 @@
+//Faça um programa que leia dois valores e exiba o maior valor lido.
 
 #include <stdio.h>
-
-//Faça um programa que leia dois valores e exiba o maior valor lido.
 
 int main(void){
    float n1, n2;
@@ -17,3 +16,4 @@ int main(void){
    }
    return 0;
 }
+
