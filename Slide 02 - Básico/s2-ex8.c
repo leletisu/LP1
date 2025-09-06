@@ -4,9 +4,8 @@ Exibir todos os números entre n1 e n2 */
 #include <stdio.h>
 
 int main(void){
-
     int n1, n2;
-
+    
     printf("Insira dois números: ");
     scanf("%d %d", &n1, &n2);
 
