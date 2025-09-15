@@ -1,5 +1,3 @@
-/*Crie uma função troca que receba dois ponteiros para inteiros p1 e p2 e troque os conteúdos por eles apontados:*/
-
 #include <stdio.h>
 
 void troca(int* p1, int* p2) {
