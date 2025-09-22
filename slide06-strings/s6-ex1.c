@@ -10,7 +10,7 @@ int tamanho(char* str) {
     return contador;
 }
 
-int main() {
+int main(void) {
     char texto1[] = "";
     char texto2[] = "Hello World!";
     
