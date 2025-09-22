@@ -24,7 +24,7 @@ void concatena(char* d, char* o1, char* o2) {
     d[i + j] = '\0';
 }
 
-int main() {
+int main(void) {
     char destino[100];
     
     concatena(destino, "Hello", " World!");
